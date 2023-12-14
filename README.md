@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kayllaneVytoria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá eu sou a kayllane Vytoria
+- 👀 Gosto de estudar
+- 📫 Estou aprendendo programaçao
+- 💞️ meu email kayllaneoliveira890@gmail.com
+
 
 <!---
 kayllaneVytoria/kayllaneVytoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
